@@ -1,0 +1,16 @@
+{
+  "name": "telmen",
+  "version": "1.0.0",
+  "description": "Telmen Munkhdalai (@telmen)'s business card",
+  "main": "index.js",
+  "bin": {
+    "telmen": "./bin/card.js"
+  },
+  "keywords": [],
+  "author": "Telmen Munkhdalai",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/telmen/businesscard.git"
+  }
+}
